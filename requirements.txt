@@ -1,5 +1,5 @@
-str
-strtreamlit-autorefresh
+streamlit
+streamlit-autorefresh
 yfinance
 pandas
 pandas_ta
